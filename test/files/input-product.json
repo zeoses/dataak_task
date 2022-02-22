@@ -1,0 +1,1926 @@
+{
+      "product": {
+        "id": 6351381,
+        "title_fa": "گوشی موبایل سامسونگ مدل A52s 5G SM-A528B/DS دو سیم‌کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+        "title_en": "Samsung Galaxy A52s 5G SM-A528B/DS Dual SIM 256GB And 8GB Ram Mobile Phone",
+        "url": {
+          "base": null,
+          "uri": "/product/dkp-6351381/گوشی-موبایل-سامسونگ-مدل-a52s-5g-sm-a525fds-دو-سیمکارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت"
+        },
+        "status": "marketable",
+        "has_quick_view": false,
+        "digiplus": {
+          "services": [
+            "ارسال رایگان",
+            "امکان ارسال فوری (شهر تهران)"
+          ],
+          "is_jet_eligible": true,
+          "cash_back": 0,
+          "is_general_location_jet_eligible": false
+        },
+        "data_layer": {
+          "brand": "سامسونگ",
+          "category": "[MO,گوشی موبایل]",
+          "metric6": 2194,
+          "dimension2": 2,
+          "dimension6": 0,
+          "dimension7": "special-offer",
+          "dimension9": 4.3,
+          "dimension11": 0,
+          "dimension20": "marketable"
+        },
+        "images": {
+          "main": {
+            "storage_ids": [
+              
+            ],
+            "url": [
+              "https://dkstatics-public.digikala.com/digikala-products/8a499b9702b546cdcd882c72dab527b95924a4b5_1630926567.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+            ],
+            "thumbnail_url": null,
+            "temporary_id": null
+          },
+          "list": [
+            {
+              "storage_ids": [
+                
+              ],
+              "url": [
+                "https://dkstatics-public.digikala.com/digikala-products/8a499b9702b546cdcd882c72dab527b95924a4b5_1630926554.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+              ],
+              "thumbnail_url": null,
+              "temporary_id": null
+            },
+            {
+              "storage_ids": [
+                
+              ],
+              "url": [
+                "https://dkstatics-public.digikala.com/digikala-products/0b0559461ea2e0a9b4c7c128110715e696b7c205_1630926566.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+              ],
+              "thumbnail_url": null,
+              "temporary_id": null
+            },
+            {
+              "storage_ids": [
+                
+              ],
+              "url": [
+                "https://dkstatics-public.digikala.com/digikala-products/86627cc62dcb4c37a79cfc67802c231bb962dd9d_1630926568.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+              ],
+              "thumbnail_url": null,
+              "temporary_id": null
+            },
+            {
+              "storage_ids": [
+                
+              ],
+              "url": [
+                "https://dkstatics-public.digikala.com/digikala-products/79f25bc226a1e0183d59487748f8e1a89ab86ecc_1630926585.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+              ],
+              "thumbnail_url": null,
+              "temporary_id": null
+            },
+            {
+              "storage_ids": [
+                
+              ],
+              "url": [
+                "https://dkstatics-public.digikala.com/digikala-products/66cbe3a0fb125a3b3c1a0efa68e67020b5e3b188_1630926585.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+              ],
+              "thumbnail_url": null,
+              "temporary_id": null
+            },
+            {
+              "storage_ids": [
+                
+              ],
+              "url": [
+                "https://dkstatics-public.digikala.com/digikala-products/e620a88d3a14a6fd5c0531d98f2f965bf11366f2_1630926586.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+              ],
+              "thumbnail_url": null,
+              "temporary_id": null
+            },
+            {
+              "storage_ids": [
+                
+              ],
+              "url": [
+                "https://dkstatics-public.digikala.com/digikala-products/1d8e02e22749a2259dd61ac5aa9deb6c7e15f5eb_1630926587.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+              ],
+              "thumbnail_url": null,
+              "temporary_id": null
+            },
+            {
+              "storage_ids": [
+                
+              ],
+              "url": [
+                "https://dkstatics-public.digikala.com/digikala-products/eb4e22507959ec7be1546ba97a26553920a0ff0b_1630926588.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+              ],
+              "thumbnail_url": null,
+              "temporary_id": null
+            }
+          ]
+        },
+        "rating": {
+          "rate": 86,
+          "count": 2194
+        },
+        "colors": [
+          {
+            "id": 2,
+            "title": "سفید",
+            "hex_code": "#FFFFFF"
+          },
+          {
+            "id": 6,
+            "title": "سبز",
+            "hex_code": "#00e676"
+          },
+          {
+            "id": 8,
+            "title": "بنفش",
+            "hex_code": "#9C27B1"
+          }
+        ],
+        "default_variant": {
+          "id": 24734969,
+          "lead_time": 0,
+          "rank": 99.89,
+          "rate": 88.6,
+          "statistics": {
+            "totally_satisfied": {
+              "rate_count": 34,
+              "rate": 60.71
+            },
+            "satisfied": {
+              "rate_count": 15,
+              "rate": 26.79
+            },
+            "neutral": {
+              "rate_count": 4,
+              "rate": 7.14
+            },
+            "dissatisfied": {
+              "rate_count": 3,
+              "rate": 5.36
+            },
+            "totally_dissatisfied": {
+              "rate_count": 0,
+              "rate": 0
+            },
+            "total_count": 56,
+            "total_rate": 88.6
+          },
+          "status": "marketable",
+          "properties": {
+            "is_fast_shipping": false,
+            "is_ship_by_seller": false,
+            "is_multi_warehouse": false,
+            "has_similar_variants": false,
+            "in_digikala_warehouse": true
+          },
+          "digiplus": {
+            "services": [
+              "ارسال رایگان",
+              "امکان ارسال فوری (شهر تهران)"
+            ],
+            "is_jet_eligible": true,
+            "cash_back": 0,
+            "is_general_location_jet_eligible": false
+          },
+          "color": {
+            "id": 6,
+            "title": "سبز",
+            "hex_code": "#00e676"
+          },
+          "warranty": {
+            "id": 4590,
+            "title_fa": "گارانتی 18 ماهه دیجی کالا",
+            "title_en": "گارانتی 18 ماهه دیجی کالا"
+          },
+          "seller": {
+            "id": 1,
+            "title": "دیجی‌کالا",
+            "code": "5A52N",
+            "url": "https://www.digikala.com/seller/5A52N/",
+            "rating": {
+              "total_rate": 0,
+              "total_count": 0,
+              "commitment": 100,
+              "no_return": 99.9,
+              "on_time_shipping": 100
+            },
+            "properties": {
+              "is_trusted": false,
+              "is_official": false,
+              "is_roosta": false,
+              "is_new": false
+            },
+            "stars": 5,
+            "registration_date": "5 سال و 6 ماه"
+          },
+          "digiclub": {
+            "point": 150
+          },
+          "price": {
+            "selling_price": 97290000,
+            "rrp_price": 99400000,
+            "order_limit": 1,
+            "is_incredible": false,
+            "is_promotion": true,
+            "is_locked_for_digiplus": false,
+            "discount_percent": 2,
+            "badge": {
+              "title": "هفته الکترونیک",
+              "color": "#FB3449",
+              "icon": {
+                "storage_ids": [
+                  
+                ],
+                "url": [
+                  "https://dkstatics-public.digikala.com/digikala-adservice-promotions/887e8d6d77719fb393d7ec0fe5e203d045ca771c_1645273286.svg"
+                ],
+                "thumbnail_url": null,
+                "temporary_id": null
+              }
+            },
+            "is_digiplus_promotion": false,
+            "is_digiplus_early_access": false,
+            "is_application_incredible": false,
+            "is_lightening_deal": false
+          },
+          "shipment_methods": {
+            "description": "موجود در انبار دیجی‌کالا",
+            "has_lead_time": true,
+            "providers": [
+              {
+                "title": "ارسال دیجی‌کالا",
+                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                "has_lead_time": false,
+                "type": "digikala"
+              }
+            ]
+          }
+        },
+        "properties": {
+          "is_fast_shipping": false,
+          "is_ship_by_seller": false,
+          "is_multi_warehouse": false,
+          "is_fake": false,
+          "has_gift": false,
+          "min_price_in_last_month": 96990000,
+          "is_non_inventory": false,
+          "is_ad": false,
+          "is_jet_eligible": false,
+          "is_medical_supplement": false,
+          "has_printed_price": false
+        },
+        "badges": [
+          
+        ],
+        "videos": [
+          
+        ],
+        "category": {
+          "id": 11,
+          "title_fa": "گوشی موبایل",
+          "title_en": "گوشی موبایل",
+          "code": "mobile-phone",
+          "content_description": "هشدار سامانه همتا: در صورت انجام معامله، از فروشنده کد فعالسازی را گرفته و حتما در حضور ایشان، دستگاه را از طریق #7777*، برای سیمکارت خود فعالسازی نمایید. \r\nآموزش تصویری در آدرس اینترنتی \r\nhmti.ir/06 \r\n<br>\r\n امکان برگشت کالا در گروه موبایل با دلیل \"انصراف از خرید\" تنها در صورتی مورد قبول است که پلمپ کالا باز نشده باشد."
+        },
+        "brand": {
+          "id": 18,
+          "code": "samsung",
+          "title_fa": "سامسونگ",
+          "title_en": "Samsung",
+          "url": {
+            "base": null,
+            "uri": "/brand-landing/samsung/"
+          },
+          "visibility": true,
+          "logo": {
+            "storage_ids": [
+              
+            ],
+            "url": [
+              "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/resize,m_lfit,h_120,w_120/quality,q_80"
+            ],
+            "thumbnail_url": null,
+            "temporary_id": null
+          },
+          "is_premium": true,
+          "is_miscellaneous": false,
+          "is_name_similar": false
+        },
+        "review": {
+          "description": "این نسخه از گوشی موبایل Galaxy A52s با رم 8 گیگابایتی و حافظه داخلی 256 گیگابایت  به عنوان یکی از جدیدترین میان‌رده‌های سامسونگ با تکنولوژی 5G روانه بازار شده است. این محصول دارای صفحه‌نمایش سوپر آمولد است و ظاهر زیبایی دارد. سامسونگ تلاش کرده است حاشیه را در این تولید جدید خود تا حد امکان کم کند. این گوشی قاب پشتی از جنس پلاستیک دارد و قاب جلویی آن را شیشه پوشانده که البته جلوه‌ی زیبایی به گوشی داده است. این محصول سامسونگ با نسخه 11 از سیستم‌عامل اندروید روانه بازار شده است تا از هر نظر گوشی مدرن به‌حساب بیاید. صفحه‌نمایش استفاده‌شده در این گوشی 6.5 اینچ با رزولوشن FullHD+ است که با استفاده از فناوری Super AMOLED و پنل OLED تصاویر شفاف و بی‌نظیری را به نمایش می‌گذارد. این صفحه‌نمایش در هر اینچ 407 پیکسل را نشان می‌دهد که این یعنی جزئیات و وضوح تصویر عالی است. همچنین روکش این نمایشگر لایه‌ی محافظ Corning Gorilla Glass است که از خط‌وخش و ضربه جلوگیری می‌کند. تراشه‌ی این محصول، Snapdragon 778G 5G  از تراشه‌های 6 نانومتری سامسونگ است که به همراه  8 گیگابایت رم عرضه می‌شود. تراشه‌ی گرافیکی Adreno 642L هم برای پخش ویدئو و بازی مناسب است. این نسخه از گوشی با حافظه 256 گیگابایتی عرضه شده است. دوربین اصلی A52s سنسور 64 مگاپیکسلی دارد و از نوع عریض (Wide) است. یک سنسور 12مگاپیکسلی و دو سنسور 5 دیگر هم در کنار این دوربین اصلی مجموعه دوربین‌های قاب پشتی A52s را تشکیل داده‌اند. دوربین سلفی 32مگاپیکسلی هم در قاب جلویی این گوشی به کار گرفته شده است. باتری 4500 میلی‌آمپرساعتی، پشتیبانی از فناوری شارژ سریع 25 واتی، درگاه USB Type-C و حسگر اثرانگشت در زیر قاب اصلی هم از دیگر ویژگی‌های این تازه‌وارد است. سامسونگ در ساخت این گوشی از جدیدترین فناوری‌های ساخت گوشی استفاده کرده است تا میان‌رده‌ای با قابلیت‌های نزدیک به یک بالارده خوش‌ساخت را روانه بازار کند.",
+          "attributes": [
+            {
+              "title": "حافظه داخلی",
+              "values": [
+                "256 گیگابایت"
+              ]
+            },
+            {
+              "title": "بازه‌ی اندازه صفحه نمایش",
+              "values": [
+                "6.0 اینچ و بزرگتر"
+              ]
+            },
+            {
+              "title": "شبکه های ارتباطی",
+              "values": [
+                "5G",
+                "4G",
+                "3G",
+                "2G"
+              ]
+            }
+          ]
+        },
+        "pros_and_cons": {
+          "advantages": [
+            
+          ],
+          "disadvantages": [
+            
+          ]
+        },
+        "suggestion": {
+          "count": 980,
+          "percentage": 85
+        },
+        "variants": [
+          {
+            "id": 24464710,
+            "lead_time": 0,
+            "rank": 97.18,
+            "rate": 77.2,
+            "statistics": {
+              "totally_satisfied": {
+                "rate_count": 2,
+                "rate": 28.57
+              },
+              "satisfied": {
+                "rate_count": 3,
+                "rate": 42.86
+              },
+              "neutral": {
+                "rate_count": 1,
+                "rate": 14.29
+              },
+              "dissatisfied": {
+                "rate_count": 1,
+                "rate": 14.29
+              },
+              "totally_dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "total_count": 7,
+              "total_rate": 77.2
+            },
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": true
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان",
+                "امکان ارسال فوری (شهر تهران)"
+              ],
+              "is_jet_eligible": true,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 2,
+              "title": "سفید",
+              "hex_code": "#FFFFFF"
+            },
+            "warranty": {
+              "id": 2299,
+              "title_fa": "گارانتی 18 ماهه سریر",
+              "title_en": "گارانتی 18 ماهه سریر"
+            },
+            "seller": {
+              "id": 1,
+              "title": "دیجی‌کالا",
+              "code": "5A52N",
+              "url": "https://www.digikala.com/seller/5A52N/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 100,
+                "no_return": 99.9,
+                "on_time_shipping": 100
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": false
+              },
+              "stars": 5,
+              "registration_date": "5 سال و 6 ماه"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 99990000,
+              "rrp_price": 99990000,
+              "order_limit": 1,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار دیجی‌کالا",
+              "has_lead_time": true,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا",
+                  "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": false,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 24734969,
+            "lead_time": 0,
+            "rank": 99.89,
+            "rate": 88.6,
+            "statistics": {
+              "totally_satisfied": {
+                "rate_count": 34,
+                "rate": 60.71
+              },
+              "satisfied": {
+                "rate_count": 15,
+                "rate": 26.79
+              },
+              "neutral": {
+                "rate_count": 4,
+                "rate": 7.14
+              },
+              "dissatisfied": {
+                "rate_count": 3,
+                "rate": 5.36
+              },
+              "totally_dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "total_count": 56,
+              "total_rate": 88.6
+            },
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": true
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان",
+                "امکان ارسال فوری (شهر تهران)"
+              ],
+              "is_jet_eligible": true,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 6,
+              "title": "سبز",
+              "hex_code": "#00e676"
+            },
+            "warranty": {
+              "id": 4590,
+              "title_fa": "گارانتی 18 ماهه دیجی کالا",
+              "title_en": "گارانتی 18 ماهه دیجی کالا"
+            },
+            "seller": {
+              "id": 1,
+              "title": "دیجی‌کالا",
+              "code": "5A52N",
+              "url": "https://www.digikala.com/seller/5A52N/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 100,
+                "no_return": 99.9,
+                "on_time_shipping": 100
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": false
+              },
+              "stars": 5,
+              "registration_date": "5 سال و 6 ماه"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 97290000,
+              "rrp_price": 99400000,
+              "order_limit": 1,
+              "is_incredible": false,
+              "is_promotion": true,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 2,
+              "badge": {
+                "title": "هفته الکترونیک",
+                "color": "#FB3449",
+                "icon": {
+                  "storage_ids": [
+                    
+                  ],
+                  "url": [
+                    "https://dkstatics-public.digikala.com/digikala-adservice-promotions/887e8d6d77719fb393d7ec0fe5e203d045ca771c_1645273286.svg"
+                  ],
+                  "thumbnail_url": null,
+                  "temporary_id": null
+                }
+              },
+              "is_digiplus_promotion": false,
+              "is_digiplus_early_access": false,
+              "is_application_incredible": false,
+              "is_lightening_deal": false
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار دیجی‌کالا",
+              "has_lead_time": true,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا",
+                  "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": false,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 24737522,
+            "lead_time": 0,
+            "rank": 99.69,
+            "rate": 89,
+            "statistics": {
+              "totally_satisfied": {
+                "rate_count": 53,
+                "rate": 54.64
+              },
+              "satisfied": {
+                "rate_count": 38,
+                "rate": 39.18
+              },
+              "neutral": {
+                "rate_count": 3,
+                "rate": 3.09
+              },
+              "dissatisfied": {
+                "rate_count": 3,
+                "rate": 3.09
+              },
+              "totally_dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "total_count": 97,
+              "total_rate": 89
+            },
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": true
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان",
+                "امکان ارسال فوری (شهر تهران)"
+              ],
+              "is_jet_eligible": true,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 8,
+              "title": "بنفش",
+              "hex_code": "#9C27B1"
+            },
+            "warranty": {
+              "id": 4590,
+              "title_fa": "گارانتی 18 ماهه دیجی کالا",
+              "title_en": "گارانتی 18 ماهه دیجی کالا"
+            },
+            "seller": {
+              "id": 1,
+              "title": "دیجی‌کالا",
+              "code": "5A52N",
+              "url": "https://www.digikala.com/seller/5A52N/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 100,
+                "no_return": 99.9,
+                "on_time_shipping": 100
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": false
+              },
+              "stars": 5,
+              "registration_date": "5 سال و 6 ماه"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 97490000,
+              "rrp_price": 98990000,
+              "order_limit": 2,
+              "is_incredible": false,
+              "is_promotion": true,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 2,
+              "badge": {
+                "title": "هفته الکترونیک",
+                "color": "#FB3449",
+                "icon": {
+                  "storage_ids": [
+                    
+                  ],
+                  "url": [
+                    "https://dkstatics-public.digikala.com/digikala-adservice-promotions/887e8d6d77719fb393d7ec0fe5e203d045ca771c_1645273286.svg"
+                  ],
+                  "thumbnail_url": null,
+                  "temporary_id": null
+                }
+              },
+              "is_digiplus_promotion": false,
+              "is_digiplus_early_access": false,
+              "is_application_incredible": false,
+              "is_lightening_deal": false
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار دیجی‌کالا",
+              "has_lead_time": true,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا",
+                  "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": false,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 25011440,
+            "lead_time": 0,
+            "rank": 97.93,
+            "rate": 76.6,
+            "statistics": {
+              "totally_satisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "satisfied": {
+                "rate_count": 5,
+                "rate": 83.33
+              },
+              "neutral": {
+                "rate_count": 1,
+                "rate": 16.67
+              },
+              "dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "totally_dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "total_count": 6,
+              "total_rate": 76.6
+            },
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": true
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان",
+                "امکان ارسال فوری (شهر تهران)"
+              ],
+              "is_jet_eligible": true,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 2,
+              "title": "سفید",
+              "hex_code": "#FFFFFF"
+            },
+            "warranty": {
+              "id": 4978,
+              "title_fa": "گارانتی 18 ماهه کسری پارس",
+              "title_en": "گارانتی 18 ماهه کسری پارس"
+            },
+            "seller": {
+              "id": 1,
+              "title": "دیجی‌کالا",
+              "code": "5A52N",
+              "url": "https://www.digikala.com/seller/5A52N/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 100,
+                "no_return": 99.9,
+                "on_time_shipping": 100
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": false
+              },
+              "stars": 5,
+              "registration_date": "5 سال و 6 ماه"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 99190000,
+              "rrp_price": 99190000,
+              "order_limit": 2,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار دیجی‌کالا",
+              "has_lead_time": true,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا",
+                  "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": false,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 25011445,
+            "lead_time": 0,
+            "rank": 97.85,
+            "rate": 87.6,
+            "statistics": {
+              "totally_satisfied": {
+                "rate_count": 6,
+                "rate": 46.15
+              },
+              "satisfied": {
+                "rate_count": 6,
+                "rate": 46.15
+              },
+              "neutral": {
+                "rate_count": 1,
+                "rate": 7.69
+              },
+              "dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "totally_dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "total_count": 13,
+              "total_rate": 87.6
+            },
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": true
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان",
+                "امکان ارسال فوری (شهر تهران)"
+              ],
+              "is_jet_eligible": true,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 6,
+              "title": "سبز",
+              "hex_code": "#00e676"
+            },
+            "warranty": {
+              "id": 4978,
+              "title_fa": "گارانتی 18 ماهه کسری پارس",
+              "title_en": "گارانتی 18 ماهه کسری پارس"
+            },
+            "seller": {
+              "id": 1,
+              "title": "دیجی‌کالا",
+              "code": "5A52N",
+              "url": "https://www.digikala.com/seller/5A52N/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 100,
+                "no_return": 99.9,
+                "on_time_shipping": 100
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": false
+              },
+              "stars": 5,
+              "registration_date": "5 سال و 6 ماه"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 99390000,
+              "rrp_price": 99390000,
+              "order_limit": 1,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار دیجی‌کالا",
+              "has_lead_time": true,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا",
+                  "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": false,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 25016056,
+            "lead_time": 0,
+            "rank": 98.37,
+            "rate": 92,
+            "statistics": {
+              "totally_satisfied": {
+                "rate_count": 10,
+                "rate": 66.67
+              },
+              "satisfied": {
+                "rate_count": 4,
+                "rate": 26.67
+              },
+              "neutral": {
+                "rate_count": 1,
+                "rate": 6.67
+              },
+              "dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "totally_dissatisfied": {
+                "rate_count": 0,
+                "rate": 0
+              },
+              "total_count": 15,
+              "total_rate": 92
+            },
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": true
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان",
+                "امکان ارسال فوری (شهر تهران)"
+              ],
+              "is_jet_eligible": true,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 8,
+              "title": "بنفش",
+              "hex_code": "#9C27B1"
+            },
+            "warranty": {
+              "id": 4978,
+              "title_fa": "گارانتی 18 ماهه کسری پارس",
+              "title_en": "گارانتی 18 ماهه کسری پارس"
+            },
+            "seller": {
+              "id": 1,
+              "title": "دیجی‌کالا",
+              "code": "5A52N",
+              "url": "https://www.digikala.com/seller/5A52N/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 100,
+                "no_return": 99.9,
+                "on_time_shipping": 100
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": false
+              },
+              "stars": 5,
+              "registration_date": "5 سال و 6 ماه"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 98890000,
+              "rrp_price": 98890000,
+              "order_limit": 1,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار دیجی‌کالا",
+              "has_lead_time": true,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا",
+                  "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": false,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 27155638,
+            "lead_time": 0,
+            "rank": 97.26,
+            "rate": 0,
+            "statistics": null,
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": true
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان",
+                "امکان ارسال فوری (شهر تهران)"
+              ],
+              "is_jet_eligible": true,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 6,
+              "title": "سبز",
+              "hex_code": "#00e676"
+            },
+            "warranty": {
+              "id": 2299,
+              "title_fa": "گارانتی 18 ماهه سریر",
+              "title_en": "گارانتی 18 ماهه سریر"
+            },
+            "seller": {
+              "id": 1,
+              "title": "دیجی‌کالا",
+              "code": "5A52N",
+              "url": "https://www.digikala.com/seller/5A52N/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 100,
+                "no_return": 99.9,
+                "on_time_shipping": 100
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": false
+              },
+              "stars": 5,
+              "registration_date": "5 سال و 6 ماه"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 99990000,
+              "rrp_price": 99990000,
+              "order_limit": 1,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار دیجی‌کالا",
+              "has_lead_time": true,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا",
+                  "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": false,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 27553360,
+            "lead_time": 0,
+            "rank": 98.37,
+            "rate": 0,
+            "statistics": null,
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": true
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان",
+                "امکان ارسال فوری (شهر تهران)"
+              ],
+              "is_jet_eligible": true,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 6,
+              "title": "سبز",
+              "hex_code": "#00e676"
+            },
+            "warranty": {
+              "id": 4300,
+              "title_fa": "گارانتی 18 ماهه داریا همراه پایتخت",
+              "title_en": "گارانتی 18 ماهه داریا همراه پایتخت"
+            },
+            "seller": {
+              "id": 783215,
+              "title": "کسب و کار خلاق داروگ",
+              "code": "DPUPK",
+              "url": "https://www.digikala.com/seller/DPUPK/",
+              "rating": {
+                "total_rate": 84,
+                "total_count": 286,
+                "commitment": 100,
+                "no_return": 99.6,
+                "on_time_shipping": 100
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": false
+              },
+              "stars": 4.7,
+              "registration_date": "5 ماه و 2 هفته"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 98800000,
+              "rrp_price": 98800000,
+              "order_limit": 1,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "marketable_stock": 2,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار دیجی‌کالا",
+              "has_lead_time": true,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا",
+                  "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": false,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 27820561,
+            "lead_time": 1,
+            "rank": 93.22,
+            "rate": 0,
+            "statistics": null,
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": false
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان"
+              ],
+              "is_jet_eligible": false,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 2,
+              "title": "سفید",
+              "hex_code": "#FFFFFF"
+            },
+            "warranty": {
+              "id": 5287,
+              "title_fa": "گارانتی 18 ماهه همراه سرویس خاورمیانه",
+              "title_en": "گارانتی 18 ماهه همراه سرویس خاورمیانه"
+            },
+            "seller": {
+              "id": 854075,
+              "title": "فروشگاه نیکسل",
+              "code": "DXRTF",
+              "url": "https://www.digikala.com/seller/DXRTF/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 0,
+                "no_return": 0,
+                "on_time_shipping": 0
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": true
+              },
+              "stars": 0,
+              "registration_date": "2 ماه و 2 هفته"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 101000000,
+              "rrp_price": 101000000,
+              "order_limit": 10,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار فروشنده",
+              "has_lead_time": false,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                  "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": true,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 27820562,
+            "lead_time": 1,
+            "rank": 93.22,
+            "rate": 0,
+            "statistics": null,
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": false
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان"
+              ],
+              "is_jet_eligible": false,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 6,
+              "title": "سبز",
+              "hex_code": "#00e676"
+            },
+            "warranty": {
+              "id": 5287,
+              "title_fa": "گارانتی 18 ماهه همراه سرویس خاورمیانه",
+              "title_en": "گارانتی 18 ماهه همراه سرویس خاورمیانه"
+            },
+            "seller": {
+              "id": 854075,
+              "title": "فروشگاه نیکسل",
+              "code": "DXRTF",
+              "url": "https://www.digikala.com/seller/DXRTF/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 0,
+                "no_return": 0,
+                "on_time_shipping": 0
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": true
+              },
+              "stars": 0,
+              "registration_date": "2 ماه و 2 هفته"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 101000000,
+              "rrp_price": 101000000,
+              "order_limit": 10,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار فروشنده",
+              "has_lead_time": false,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                  "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": true,
+                  "type": "digikala"
+                }
+              ]
+            }
+          },
+          {
+            "id": 27820563,
+            "lead_time": 1,
+            "rank": 93.22,
+            "rate": 0,
+            "statistics": null,
+            "status": "marketable",
+            "properties": {
+              "is_fast_shipping": false,
+              "is_ship_by_seller": false,
+              "is_multi_warehouse": false,
+              "has_similar_variants": false,
+              "in_digikala_warehouse": false
+            },
+            "digiplus": {
+              "services": [
+                "ارسال رایگان"
+              ],
+              "is_jet_eligible": false,
+              "cash_back": 0,
+              "is_general_location_jet_eligible": false
+            },
+            "color": {
+              "id": 8,
+              "title": "بنفش",
+              "hex_code": "#9C27B1"
+            },
+            "warranty": {
+              "id": 5287,
+              "title_fa": "گارانتی 18 ماهه همراه سرویس خاورمیانه",
+              "title_en": "گارانتی 18 ماهه همراه سرویس خاورمیانه"
+            },
+            "seller": {
+              "id": 854075,
+              "title": "فروشگاه نیکسل",
+              "code": "DXRTF",
+              "url": "https://www.digikala.com/seller/DXRTF/",
+              "rating": {
+                "total_rate": 0,
+                "total_count": 0,
+                "commitment": 0,
+                "no_return": 0,
+                "on_time_shipping": 0
+              },
+              "properties": {
+                "is_trusted": false,
+                "is_official": false,
+                "is_roosta": false,
+                "is_new": true
+              },
+              "stars": 0,
+              "registration_date": "2 ماه و 2 هفته"
+            },
+            "digiclub": {
+              "point": 150
+            },
+            "price": {
+              "selling_price": 101000000,
+              "rrp_price": 101000000,
+              "order_limit": 10,
+              "is_incredible": false,
+              "is_promotion": false,
+              "is_locked_for_digiplus": false,
+              "discount_percent": 0
+            },
+            "shipment_methods": {
+              "description": "موجود در انبار فروشنده",
+              "has_lead_time": false,
+              "providers": [
+                {
+                  "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                  "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                  "has_lead_time": true,
+                  "type": "digikala"
+                }
+              ]
+            }
+          }
+        ],
+        "concurrent_viewers": 0,
+        "questions_count": 571,
+        "comments_count": 1608,
+        "breadcrumb": [
+          {
+            "title": "دیجی‌کالا",
+            "url": {
+              "base": null,
+              "uri": "/"
+            }
+          },
+          {
+            "title": "کالای دیجیتال",
+            "url": {
+              "base": null,
+              "uri": "/main/electronic-devices/"
+            }
+          },
+          {
+            "title": "موبایل",
+            "url": {
+              "base": null,
+              "uri": "/search/category-mobile/"
+            }
+          },
+          {
+            "title": "گوشی موبایل",
+            "url": {
+              "base": null,
+              "uri": "/search/category-mobile-phone/"
+            }
+          },
+          {
+            "title": "گوشی موبایل سامسونگ مدل A52s 5G SM-A528B/DS دو سیم‌کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+            "url": {
+              "base": null,
+              "uri": "/product/dkp-6351381/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%85%D8%AF%D9%84-a52s-5g-sm-a525fds-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D9%88-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA"
+            }
+          }
+        ],
+        "size_guide": [
+          
+        ],
+        "specifications": [
+          {
+            "title": "مشخصات",
+            "attributes": [
+              {
+                "title": "ابعاد",
+                "values": [
+                  "159.9x75.1x8.4 "
+                ]
+              },
+              {
+                "title": "وزن",
+                "values": [
+                  "189 گرم"
+                ]
+              },
+              {
+                "title": "توضیحات سیم کارت",
+                "values": [
+                  "سایز نانو (8.8 × 12.3 میلی‌متر) "
+                ]
+              },
+              {
+                "title": "ساختار بدنه",
+                "values": [
+                  "پلاستیک و شیشه (محافظ گوریلا گلس روی قاب جلویی)\r\nقاب پشتی ساخته شده از پلاستیک\r\nدارای گواهینامه IP67 مقاوم در برابر گرد و غبار و آب تا عمق 1 متر و به مدت 30 دقیقه\r\nکاربرد شیار دوم برای استفاده سیم‌کارت دوم یا کارت حافظه‌ جانبی\r\n "
+                ]
+              },
+              {
+                "title": "ویژگی‌های خاص",
+                "values": [
+                  "مجهز به حس‌گر اثرانگشت ",
+                  "مناسب عکاسی ",
+                  "مناسب عکاسی سلفی ",
+                  "مقاوم در برابر آب "
+                ]
+              },
+              {
+                "title": "تعداد سیم کارت",
+                "values": [
+                  "دو عدد "
+                ]
+              },
+              {
+                "title": "زمان معرفی",
+                "values": [
+                  "17 آگوست 2021 "
+                ]
+              },
+              {
+                "title": "مدل",
+                "values": [
+                  "(جهانی) Galaxy A52s 5G SM-A528B/DS - GLOBAL "
+                ]
+              },
+              {
+                "title": "شناسه کالا",
+                "values": [
+                  "2800001106606 "
+                ]
+              },
+              {
+                "title": "تراشه",
+                "values": [
+                  "Qualcomm Snapdragon 778G 5G (6 nm) Chipset "
+                ]
+              },
+              {
+                "title": "پردازنده‌ی مرکزی",
+                "values": [
+                  "Single-Core Kryo 670 Prime &amp; Triple-Core Kryo 670 Gold &amp; Quad-Core Kryo 670 Silver CPU "
+                ]
+              },
+              {
+                "title": "نوع پردازنده",
+                "values": [
+                  "64 بیتی "
+                ]
+              },
+              {
+                "title": "فرکانس پردازنده‌ی مرکزی",
+                "values": [
+                  "2.4 , 2.2 و 1.9 گیگاهرتز"
+                ]
+              },
+              {
+                "title": "پردازنده‌ی گرافیکی",
+                "values": [
+                  "Adreno 642L GPU "
+                ]
+              },
+              {
+                "title": "حافظه داخلی",
+                "values": [
+                  "256 گیگابایت "
+                ]
+              },
+              {
+                "title": "مقدار RAM",
+                "values": [
+                  "هشت گیگابایت "
+                ]
+              },
+              {
+                "title": "فناوری صفحه‌نمایش",
+                "values": [
+                  "Super AMOLED "
+                ]
+              },
+              {
+                "title": "بازه‌ی اندازه صفحه نمایش",
+                "values": [
+                  "6.0 اینچ و بزرگتر "
+                ]
+              },
+              {
+                "title": "اندازه",
+                "values": [
+                  "6.5 اینچ"
+                ]
+              },
+              {
+                "title": "رزولوشن",
+                "values": [
+                  "2400 × 1080 پیکسل "
+                ]
+              },
+              {
+                "title": "تراکم پیکسلی",
+                "values": [
+                  "405 پیکسل بر اینچ"
+                ]
+              },
+              {
+                "title": "نسبت صفحه‌نمایش به بدنه",
+                "values": [
+                  "84.9 "
+                ]
+              },
+              {
+                "title": "نسبت تصویر",
+                "values": [
+                  "20:9  "
+                ]
+              },
+              {
+                "title": "محافظت",
+                "values": [
+                  "Corning Gorilla Glass 5 "
+                ]
+              },
+              {
+                "title": "سایر قابلیت‌ها",
+                "values": [
+                  "120Hz, 800 nits\r\nدارای رابط کاربری One UI 3.1\r\nANT+ "
+                ]
+              },
+              {
+                "title": "شبکه های ارتباطی",
+                "values": [
+                  "5G ",
+                  "4G ",
+                  "3G ",
+                  "2G "
+                ]
+              },
+              {
+                "title": "شبکه 2G",
+                "values": [
+                  "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM)\r\nبرای هر دو سیم کارت "
+                ]
+              },
+              {
+                "title": "شبکه 3G",
+                "values": [
+                  "HSDPA 850 / 900 / 1900 / 2100\r\nHSPA با سرعت دانلود 42.2 مگابیت بر ثانیه و آپلود 5.76 مگابیت بر ثانیه\r\n "
+                ]
+              },
+              {
+                "title": "شبکه 4G",
+                "values": [
+                  "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 40, 41, 66\r\n "
+                ]
+              },
+              {
+                "title": "شبکه 5G",
+                "values": [
+                  "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 78 SA/NSA/Sub6\r\n "
+                ]
+              },
+              {
+                "title": "فناوری‌های ارتباطی",
+                "values": [
+                  "GPRS ",
+                  "Wi-Fi ",
+                  "بلوتوث ",
+                  "OTG ",
+                  "QZSS "
+                ]
+              },
+              {
+                "title": "Wi-Fi",
+                "values": [
+                  "Wi-Fi 802.11 a/b/g/n/ac/6\r\ndual-band\r\nWi-Fi Direct\r\nhotspot "
+                ]
+              },
+              {
+                "title": "بلوتوث",
+                "values": [
+                  "A2DP, LE "
+                ]
+              },
+              {
+                "title": "فن‌آوری موبایل",
+                "values": [
+                  "A-GPS ",
+                  "GLONASS ",
+                  "GALILEO ",
+                  "BDS "
+                ]
+              },
+              {
+                "title": "درگاه‌های ارتباطی",
+                "values": [
+                  "USB Type-C 2.0 "
+                ]
+              },
+              {
+                "title": "نسخه بلوتوث",
+                "values": [
+                  "نسخه 5.0 "
+                ]
+              },
+              {
+                "title": "دوربین‌های پشت گوشی",
+                "values": [
+                  "4 ماژول دوربین "
+                ]
+              },
+              {
+                "title": "رزولوشن عکس",
+                "values": [
+                  "64 مگاپیکسل "
+                ]
+              },
+              {
+                "title": "فلش",
+                "values": [
+                  "LED "
+                ]
+              },
+              {
+                "title": "قابلیت‌های دوربین",
+                "values": [
+                  "دارای چهار سنسور دوربین | دوربین‌هایی با رزولوشن 64، 12، 5 و 5 مگاپیکسل\r\n- سنسور اول از نوع عریض (Wide)، با رزولوشن 64 مگاپیکسل، دریچه‌ی دیافراگم f/1.8، فاصله کانونی لنز 26 میلی‌متر (Focal Length 26 mm)، اندازه سنسور 1/1.7 اینچ (Sensor Size 1/1.7 Inch)، ثبت تصاویر با پیکسل‎هایی به سایز 0.8 میکرومتر (0.8µm Pixel Size)، مجهز به فناوری فوکوس اتوماتیک از نوع PDAF و سیستم لرزشگیر اپتیکال تصویر OIS\r\n- سنسور دوم از نوع از نوع فوق‌عریض (Ultrawide) با رزولوشن 12 مگاپیکسل، دریچه‌ی دیافراگم f/2.2، زاویه دید 123 درجه، ثبت تصاویر با پیکسل‎هایی به سایز 1.12 میکرومتر (1.12µm Pixel Size) \r\n- سنسور سوم ماکرو (macro) با رزولوشن 5 مگاپیکسل، دریچه‌ی دیافراگم f/2.4 \r\n- سنسور چهارم برای ایجاد عمق تصویر (Depth) با رزولوشن 5 مگاپیکسل و دریچه‌ی دیافراگم f/2.4 \r\nقابلیت عکاسی پانوراما (Panorama)\r\nقابلیت عکاسی HDR "
+                ]
+              },
+              {
+                "title": "فیلمبرداری",
+                "values": [
+                  "رزولوشن 4K و سرعت 30 فریم بر ثانیه (4K@30FPS)\r\nرزولوشن 1080 × 1920 و سرعت 60 فریم بر ثانیه (1080p@60FPS)\r\nرزولوشن 1080 × 1920 و سرعت 30 فریم بر ثانیه (1080p@30FPS)\r\nتثبیت کننده الکترونیکی تصویر مبتنی بر ژیروسکوپ (gyro-EIS)\r\n "
+                ]
+              },
+              {
+                "title": "دوربین سلفی",
+                "values": [
+                  "- سنسور از نوع عریض (Wide)، با رزولوشن 32 مگاپیکسل، دریچه‌ی دیافراگم f/2.2، فاصله کانونی لنز 26 میلی‌متر (Focal Length 26 mm)، اندازه سنسور 1/2.8 اینچ، ثبت تصاویر با پیکسل‎هایی به سایز 0.8 میکرومتر (0.8µm Pixel Size)\r\nقابلیت عکاسی HDR خودکار\r\nفیلمبرداری\r\n- رزولوشن 4K و سرعت 30 فریم بر ثانیه (4K@30FPS)\r\n- رزولوشن 1080 و سرعت 30 فریم بر ثانیه (1080p@30FPS)\r\n "
+                ]
+              },
+              {
+                "title": "سیستم عامل",
+                "values": [
+                  "Android "
+                ]
+              },
+              {
+                "title": "نسخه سیستم عامل",
+                "values": [
+                  "Android 11 "
+                ]
+              },
+              {
+                "title": "حس‌گرها",
+                "values": [
+                  "قطب‌نما (Compass) ",
+                  "شتاب‌سنج (Accelerometer) ",
+                  "مجاورت (Proximity) ",
+                  "ژیروسکوپ (Gyro) ",
+                  "اثرانگشت زیر صفحه نمایش (FingerPrint|Under-Display) "
+                ]
+              },
+              {
+                "title": "مشخصات باتری",
+                "values": [
+                  "باتری لیتیوم پولیمر با ظرفیت 4500 میلی‌آمپرساعت\r\nقابلیت شارژ سریع با توان 25 وات "
+                ]
+              }
+            ]
+          }
+        ],
+        "expert_reviews": {
+          "attributes": [
+            
+          ],
+          "description": "این نسخه از گوشی موبایل Galaxy A52s با رم 8 گیگابایتی و حافظه داخلی 256 گیگابایت  به عنوان یکی از جدیدترین میان‌رده‌های سامسونگ با تکنولوژی 5G روانه بازار شده است. این محصول دارای صفحه‌نمایش سوپر آمولد است و ظاهر زیبایی دارد. سامسونگ تلاش کرده است حاشیه را در این تولید جدید خود تا حد امکان کم کند. این گوشی قاب پشتی از جنس پلاستیک دارد و قاب جلویی آن را شیشه پوشانده که البته جلوه‌ی زیبایی به گوشی داده است. این محصول سامسونگ با نسخه 11 از سیستم‌عامل اندروید روانه بازار شده است تا از هر نظر گوشی مدرن به‌حساب بیاید. صفحه‌نمایش استفاده‌شده در این گوشی 6.5 اینچ با رزولوشن FullHD+ است که با استفاده از فناوری Super AMOLED و پنل OLED تصاویر شفاف و بی‌نظیری را به نمایش می‌گذارد. این صفحه‌نمایش در هر اینچ 407 پیکسل را نشان می‌دهد که این یعنی جزئیات و وضوح تصویر عالی است. همچنین روکش این نمایشگر لایه‌ی محافظ Corning Gorilla Glass است که از خط‌وخش و ضربه جلوگیری می‌کند. تراشه‌ی این محصول، Snapdragon 778G 5G  از تراشه‌های 6 نانومتری سامسونگ است که به همراه  8 گیگابایت رم عرضه می‌شود. تراشه‌ی گرافیکی Adreno 642L هم برای پخش ویدئو و بازی مناسب است. این نسخه از گوشی با حافظه 256 گیگابایتی عرضه شده است. دوربین اصلی A52s سنسور 64 مگاپیکسلی دارد و از نوع عریض (Wide) است. یک سنسور 12مگاپیکسلی و دو سنسور 5 دیگر هم در کنار این دوربین اصلی مجموعه دوربین‌های قاب پشتی A52s را تشکیل داده‌اند. دوربین سلفی 32مگاپیکسلی هم در قاب جلویی این گوشی به کار گرفته شده است. باتری 4500 میلی‌آمپرساعتی، پشتیبانی از فناوری شارژ سریع 25 واتی، درگاه USB Type-C و حسگر اثرانگشت در زیر قاب اصلی هم از دیگر ویژگی‌های این تازه‌وارد است. سامسونگ در ساخت این گوشی از جدیدترین فناوری‌های ساخت گوشی استفاده کرده است تا میان‌رده‌ای با قابلیت‌های نزدیک به یک بالارده خوش‌ساخت را روانه بازار کند.",
+          "short_review": "",
+          "admin_rates": [
+            
+          ],
+          "review_sections": [
+            {
+              "title": "میان‌رده‌ای در کالبد پرچمدار",
+              "sections": [
+                {
+                  "template": "text-image",
+                  "text": "بدون شک گوشی&zwnj;های هوشمند میان&zwnj;رده سری A و M سامسونگ، پرطرفدار&zwnj;ترین گوشی&zwnj;های میان&zwnj;رده از نظر کاربران هستند. این گوشی&zwnj;ها همانند تمام بازار&zwnj;های جهانی، در بازار ایران هم طرفداران بسیاری دارد و فروش چشم&zwnj;گیری داشته است. در میان گوشی&zwnj;های میان رده سری A سامسونگ شاهد رونمایی برخی از محصولات بودیم که به مشخصات قدرتمندری در حد و اندازه گوشی&zwnj;های پرچمدار مجهز شده&zwnj;اند. سامسونگ گلکسی A52s یکی از همین گوشی&zwnj;های هوشمند میان&zwnj;رده می&zwnj;باشد که به مشخصات فنی قدرتمند و بسیار خوبی مجهز شده است. سامسونگ در نگاه اولیه با توجه به طراحی جذابی که دارد، سعی دارد تا خود را به عنوان یک گوشی هوشمند پرچمدار معرفی کند و نمی&zwnj;توان منکر این شد که با یک گوشی هوشمند میان&zwnj;رده سطح بالایی رو&zwnj;به&zwnj;رو هستیم. در نمای رو&zwnj;به&zwnj;رویی از طراحی بسیار جذاب ناچ اینفینیتی O استفاده شده است که بریدگی دایره&zwnj;ای شکل ناچ در قسمت بالایی و مرکزی صفحه&zwnj;نمایش سنسور دوربین سلفی را در خود جای داده است. در نمای پشتی هم چهار سنسور دوربین را می&zwnj;بینیم که در بریدگی مستطیلی شکلی قرار گرفته اند. سنسور&zwnj;های دوربینی که حرف&zwnj;های بسیاری برای گفتن دارند که در ادامه بیشتر در مورد مشخصات فنی در نظر گرفته شده برای این سنسور&zwnj;های دوربین صحبت خواهیم کرد. متریال پلاستیکی و بسیار با&zwnj;کیفیت این گوشی سبب شده تا گلکسی A52s توانایی پشتیبانی از استاندارد ضدآب IP67 را داشته باشد. با این تفاسیر، گلکسی A52s توانایی قرار گیری در عمق 1 متر آب و مدت زمان 30 دقیقه&zwnj;ای را دارد. وزن بسیار مناسب این گوشی نه&zwnj;تنها در استفاده&zwnj;های طولانی مدت هیچ خستگی برای دست به&zwnj;همراه ندارد بلکه حس HANDS_ON جذابی را منتقل می&zwnj;کند تا به واقع حس کنید که با یک گوشی هوشمند قدرتمند و بسیار با&zwnj;کیفیتی رو&zwnj;به&zwnj;رو هستید.",
+                  "image": "https://dkstatics-public.digikala.com/digikala-reviews/14bc5fc3a3636efc0dcd34127ad43b8013072d50_1632644828.jpg?x-oss-process=image/quality,q_70"
+                }
+              ]
+            },
+            {
+              "title": "از صفحه‌نمایش با‌کیفیت لذت ببرید",
+              "sections": [
+                {
+                  "template": "image-text",
+                  "text": "&nbsp;\r\n\r\nسامسونگ همواره در زمینه صفحه&zwnj;نمایش گوشی&zwnj;های هوشمند حرف&zwnj;هایی برای گفتن داشت و بدون هیچ تعریف اضافی باید بگوییم که در این بخش هم عملکرد بسیار خوبی داشته است. سامسونگ گلکسی A52s هم از این اتفاق مستثنی نیست و به صفحه&zwnj;نمایش 6.5 اینچ با رزولوشن 1080&times;2400 پیکسل از نوع سوپرامولد مجهز شده است. تراکم پیکسلی عالی 405ppi در هر اینچ نشان از ارائه کیفیت بسیار بالای این صفحه&zwnj;نمایش می&zwnj;دهد. تا همینجا هم قطعا متوجه شده اید که صفحه&zwnj;نمایش در نظر گرفته شده برای این گوشی هوشمند میان&zwnj;رده هیچ چیزی کم از یک صفحه&zwnj;نمایش یک گوشی پرچمدار ندارد. اما هنوز مشخصات قدرتمند این صفحه&zwnj;نمایش تمام نشده است و بهتر است که بدانید این صفحه&zwnj;نمایش توانایی ارائه نرخ بروزرسانی 120 هرتز را هم دارد. تنها می&zwnj;توان گفت که باید از این صفحه&zwnj;نمایش لذت برد و تجربه کاربری جذابی برای کاربر به&zwnj;همراه دارد. میزان روشنایی عالی 800 نیت (شمع در متر مربع) هم سبب شده تا در شرایط نوری متنوع و حتی زیر تابش مستقیم نور خورشید، وضوح تصویر بسیار خوبی را شاهد باشیم. محافظ صفحه گوریلا گلس نسل پنجم (Corning Gorilla Glass 5) از صفحه&zwnj;نمایش با&zwnj;ارزش این گوشی هوشمند در برابر ضربات و افتادن&zwnj;های احتمالی محافظت می&zwnj;کند.",
+                  "image": "https://dkstatics-public.digikala.com/digikala-reviews/c1c03af4613c86c238851e4ced393ea86abe4c24_1632644879.jpg?x-oss-process=image/quality,q_70"
+                }
+              ]
+            },
+            {
+              "title": "ثبت لحظات زیبا با سامسونگ گلکسی A52s",
+              "sections": [
+                {
+                  "template": "text",
+                  "text": "در قسمت پشتی همانطور که در ابتدا اشاره کرده بودیم، چهار سنسور دوربین در نظر گرفته شده است. یک سنسور دوربین اصلی با رزولوشن 64 مگاپیکسلی و گشودگی دریچه دیافراگم f/1.8 از نوع عریض، سنسور دوربین 12 مگاپیکسلی از نوع فوق عریض (ultra wide) با زاویه دید 123 درجه، سنسور دوربین 5 مگاپیکسلی از نوع ماکرو و سنسور 5 مگاپیکسلی سنجش عمق، سنسور&zwnj;های دوربین چهار&zwnj;گانه سامسونگ گلکسی A52s را تشکیل می&zwnj;دهند. با سنسور دوربین اصلی شروع می&zwnj;کنیم. بدون شک در میان گوشی&zwnj;های هوشمند میان&zwnj;رده، گلکسی A52s به سنسور دوربین اصلی قدرتمند و بسیار با&zwnj;کیفیتی مجهز شده است. این سنسور دوربین با توجه به خروجی تصاویر ثبت شده در نور روز،&nbsp; توانست کنتراست عالی، جزئیات بسیار دقیق و داینامیک رنج بسیار طبیعی را ارائه کند. باید گفت که در نور روز هرآنچه که از یک سنسور دوربین قدرتمند انتظار دارید را سامسونگ گلکسی A52s برآورده می&zwnj;کند. اما آیا درنور شب هم این سنسور توانایی عملکرد خوبی را دارد؟ در پاسخ این پرسش باید بگوییم که قطعا با توجه به گشودگی دریچه دیافراگم مناسب و جذب نور بالا، شاهد عملکرد خوبی از سنسور دوربین اصلی این گوشی درنور شب و نور کم خواهید بود. البته حضور قابلیت نرم&zwnj;افزاری حالت شب یا همان night mode هم کمک شایانی به ثبت هرچه بهتر تصاویر در نور شب کرده است. این قابلیت به&zwnj;خوبی نویز&zwnj;های موجود در نور شب (نور&zwnj;&zwnj;های مصنوعی مثل نور چراغ) را حذف می&zwnj;کند و در نهایت خروجی تصاویر با&zwnj;کیفیت را در نور شب شاهد خواهیم بود."
+                },
+                {
+                  "template": "image",
+                  "image": "https://dkstatics-public.digikala.com/digikala-reviews/b40c184030004b42a20e9462b183fbb06cd1364a_1632644979.jpg?x-oss-process=image/quality,q_70"
+                }
+              ]
+            },
+            {
+              "title": "پردازنده عالی، باتری قدرتمند",
+              "sections": [
+                {
+                  "template": "text-image",
+                  "text": "&nbsp;\r\n\r\n&nbsp;\r\n\r\nدر بخش مشخصات سخت&zwnj;افزاری هم سامسونگ گلکسی A52s به یکی از بهتری پردازنده&zwnj;های میان رده شرکت کوالکام، یعنی اسنپدراگون 778G مجهز شده است. پردازنده&zwnj;ای با معماری 6 نانومتری که چهار هسته قدرتمند&zwnj;تر با توانایی ارائه حداکثر فرکانس کاری 2.4 گیگاهرتز در کنار چهار هسته اقتصادی با صرفه انرژی کمتر با توانایی ارائه حداکثر فرکانس کاری 1.9 گیگاهرتز، هشت هسته این پردازنده را تشکیل می&zwnj;دهند. با توجه به فرکانس هسته&zwnj;ها و همچنین پردازنده گرافیکی Adreno 642L باید بگوییم که این گوشی میان&zwnj;رده توانایی اجرای سنگین&zwnj;ترین بازی&zwnj;های حال حاضر را دارد. بهره بردن از چنین پردازنده&zwnj;ای در کنار صفحه&zwnj;نمایشی که توانایی ارائه نرخ بروزرسانی 120 هرتز را دارد گیم پلی بسیار جذابی را ارائه می&zwnj;کند. در بخش باتری هم این گوشی هوشمند میان&zwnj;رده به باتری با میزان ظرفیت 4500 میلی&zwnj;آمپر&zwnj;ساعت مجهز شده است &nbsp;که توانایی ارائه طول عمر مفید (زمان آماده به&zwnj;کار) بسیار خوب و قابل قبولی را ارائه کند. شارژر 25 واتی مجهز تکنولوژی شارژ سریع در نظر گرفته شده هم توانایی شارژ 0 تا 50 درصدی باتری این گوشی هوشمند را در مدت زمان 30 دقیقه دارد.",
+                  "image": "https://dkstatics-public.digikala.com/digikala-reviews/7a7ba6f70d1680eb3755fa16f6b366ae1d70af9f_1632645044.jpg?x-oss-process=image/quality,q_70"
+                }
+              ]
+            }
+          ],
+          "technical_properties": {
+            "advantages": [
+              
+            ],
+            "disadvantages": [
+              
+            ]
+          }
+        },
+        "meta": {
+          "brand_category_url": {
+            "base": null,
+            "uri": "/search/category-mobile-phone/samsung/"
+          }
+        },
+        "fidibo": [
+          
+        ],
+        "last_comments": [
+          {
+            "id": 28007303,
+            "title": "کلا دست دوم بود و دست کس دیگری بود",
+            "body": "کالا دست دوم بود همه چیش باز شده بود جای اثر انگشت روی تمام گوشی بود گوشی کاملا مشخص بود ک استفاده شده بود و برای من ارسالش کردن جالب اینجاست که کسی پاسخگو نیس و وقتی کارو مرجوع کردم پولو به من برنمیگردونن و زیر بار این کار نمیرن،شما حق ندارید کالای دست دوم به مردم بدید ،من قبل اینکه این کالارو بخرم توی نظرات دیدم ۲ نفر مثل من به این مشکل خوردن ولی باز اعتماد کردم که متأسفانه کالا دست دوم به من دادن و هیچ کس پاسخگو نیست",
+            "created_at": "6 آذر 1400",
+            "rate": 1,
+            "reactions": {
+              "likes": 691,
+              "dislikes": 6
+            },
+            "files": [
+              
+            ],
+            "recommendation_status": "not_recommended",
+            "is_buyer": true,
+            "user_name": "محمد حسین کشوری",
+            "is_anonymous": false,
+            "purchased_item": [
+              
+            ],
+            "advantages": [
+              
+            ],
+            "disadvantages": [
+              
+            ]
+          },
+          {
+            "id": 27873491,
+            "title": "اک نبودن گوشی",
+            "body": "من مثل چشمهام به دیجیکالا اعتماد داشتم خریدهای قبلیم همه اک بودن اما این گوشی مرجوعی فرد دیگری بوده و دوباره برای من ارسال شده روی صفحه خش و اثر انگشت بود خواهشا اینکار برای فرد  دیگه ای نکنین این مرجوعیها رو جدا کنین و با قیمت کمتر با درج عیب بفروشین",
+            "created_at": "2 آذر 1400",
+            "rate": 4,
+            "reactions": {
+              "likes": 459,
+              "dislikes": 1
+            },
+            "files": [
+              
+            ],
+            "recommendation_status": "not_recommended",
+            "is_buyer": true,
+            "user_name": "پروانه عبداللهی",
+            "is_anonymous": false,
+            "purchased_item": [
+              
+            ],
+            "advantages": [
+              
+            ],
+            "disadvantages": [
+              
+            ]
+          },
+          {
+            "id": 25722019,
+            "title": "بعد از دو ماه استفاده از A52s 5G",
+            "body": "با تشکر از دیجیکالا برای ارسال سریع. بعد دو ماه نظرم رو بروز میکنم. محتویات جعبه: گوشی , شارژر , کابل تایپ سی , سوزن سیم کارت , قاب ژله ای و دفترچه های راهنما و گارانتی. \r\nاز نظر کاربری واقعا مناسبه, بخاطر پردازنده قوی و رابط کاربری one ui و کیفیت ساخت بالا. خوش دست هم هست و صفحه نمایش amoled خیلی خوبی داره که HDR هست و امکاناتی مثل always on display داره. .\r\nدوربینش هم خوبه. از نظر عکاسی تو حالت 64 مگاپیکسل خیلی کیفیتش خوبه. فیلمبرداری به صورت 4k سی فریم یا full hd شصت فریم هست و با لرزشگیر اپتیکال خیلی خوبه. . \r\nموقع شارژ یه ذره گرم میشه که طبیعیه ولی توی بازی ها و برنامه ها نه. سنسور اثر انگشت زیر نمایشگرش نسبت به a52 و a52 5g بهبود داشته. . \r\nمصرف باتری این گوشی بخاطر چیپ بهبود داشته و خود گوشی مصرف باتری رو مدیریت میکنه ولی بستگی به خود کاربر داره که چطور استفاده میکنه و ویژگی های فعال دستگاه..\r\nرابط کاربری سامسونگ بسیار عالیه و یک نقطه قوت بزرگ برای این گوشی محسوب میشه. سامسونگ 3 آپدیت اندروید و 4 سال پشتیبانی امنیتی برای این گوشی ها در نظر داره و این گوشی اندروید 14 رو هم قطعا میگیره. . \r\nاسلات سیم کارت دوم با کارت حافظه مشترکه ولی این گوشی 256 گیگ حافظه داره و من شخصا دو سیم کارت فعال رو ترجیح میدم. .\r\nدر کل پیشنهادش میکنم به همه اگر کیفیت و قدرت گوشی براتون مهمه",
+            "created_at": "23 آبان 1400",
+            "rate": 4.55,
+            "reactions": {
+              "likes": 377,
+              "dislikes": 7
+            },
+            "files": [
+              
+            ],
+            "recommendation_status": "recommended",
+            "is_buyer": true,
+            "user_name": "کاربر دیجی‌کالا",
+            "is_anonymous": true,
+            "purchased_item": [
+              
+            ],
+            "advantages": [
+              "عملکرد روان و قوی با چیپ اسنپ دراگون 778G\r",
+              "\r",
+              "دوربین های خوب , ضد آب IP67 \r",
+              "\r",
+              "رابط کاربری خوب سامسونگ و 3 نسخه آپدیت اندروید\r",
+              "\r",
+              "صفحه نمایش 120 هرتز HDR امولد با گوریلا گلس 5 "
+            ],
+            "disadvantages": [
+              "نداشتن رادیو \r"
+            ]
+          }
+        ],
+        "last_questions": [
+          {
+            "id": 3076015,
+            "text": "دوستای گیمر معمولا با چه پینگی توی کالاف و پابجی بازی میکنید باش ؟",
+            "answer_count": 0,
+            "sender": "محسن دهقانی",
+            "created_at": "1 اسفند 1400"
+          },
+          {
+            "id": 3075966,
+            "text": "عملکرد پردازشی این گوشی توی۳یا۴ساعت کالاف یا پابجی افت میکنه؟و باتری گوشی''توی\"گیم مصرفش چطوره؟",
+            "answer_count": 0,
+            "sender": "محسن دهقانی",
+            "created_at": "1 اسفند 1400"
+          },
+          {
+            "id": 3064673,
+            "text": "این بهتره یا s9یا نوت۸ سامسونگ?",
+            "answer_count": 0,
+            "sender": "کاربر",
+            "created_at": "29 بهمن 1400"
+          }
+        ]
+      }
+}

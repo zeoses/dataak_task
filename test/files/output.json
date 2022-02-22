@@ -1,0 +1,22 @@
+{
+    "product":
+    {
+        "id": 6351381, 
+        "first_image_url": "https://dkstatics-public.digikala.com/digikala-products/8a499b9702b546cdcd882c72dab527b95924a4b5_1630926567.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90", 
+        "title_fa": "گوشی موبایل سامسونگ مدل A52s 5G SM-A528B/DS دو سیم\u200cکارت ظرفیت 256 گیگابایت و رم 8 گیگابایت", 
+        "title_en": "Samsung Galaxy A52s 5G SM-A528B/DS Dual SIM 256GB And 8GB Ram Mobile Phone", 
+        "url": "https://www.digikala.com/product/dkp-6351381/"
+    },
+    "product_details":
+    {   
+        "product_id": 6351381, 
+        "quality_rate": 85.3, 
+        "pbv_rate": 85.1,
+        "innovation_rate": 84.8, 
+        "features_rate": 85.8, 
+        "useable_rate": 85.4, 
+        "Design_rate": 84.9, 
+        "price": 99990000, 
+        "price_with_discount": 99990000
+    }
+}
