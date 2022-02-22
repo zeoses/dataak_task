@@ -1,4 +1,6 @@
-greenlet==1.1.2
+fake-useragent==0.1.11
 PyMySQL==1.0.2
 python-dotenv==0.19.2
+requests==2.27.1
 SQLAlchemy==1.4.31
+urllib3==1.26.8
