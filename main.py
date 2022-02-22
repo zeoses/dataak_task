@@ -45,7 +45,6 @@ if __name__ == '__main__':
                 )
             )
 
-
     db.bulk_save_objects(model_product)
     db.bulk_save_objects(model_product_detales)
     db.commit()
