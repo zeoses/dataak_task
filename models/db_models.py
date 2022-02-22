@@ -1,4 +1,4 @@
-from sqlalchemy import Column, TIMESTAMP, String, ForeignKey, Sequence, Integer
+from sqlalchemy import Column, TIMESTAMP, String, ForeignKey, Sequence, Integer, Float
 from sqlalchemy.orm import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
@@ -14,12 +14,13 @@ class ProductModel(Base):
     __tablename__ = 'product'
     id = Column(Integer, primary_key=True)
     create_date = Column(TIMESTAMP, server_default=func.now())
-    first_image_url = Column(Integer)
+    first_image_url = Column(String(300))
     title_fa = Column(String(300))
     title_en = Column(String(300))
+    url= Column(String(300))
 
     def __repr__(self):
-       return "<ProductModel(title='%s')>" % (self.title)
+       return "<ProductModel(title='%s')>" % (self.title_en)
     
 
 class ProductDetailsModel(Base):
@@ -27,13 +28,13 @@ class ProductDetailsModel(Base):
     id = Column(Integer, Sequence('product_details_id'), primary_key=True)
     product_id = Column(Integer, ForeignKey('product.id'))
     create_date = Column(TIMESTAMP, server_default=func.now())
-    quality_rate = Column(Integer)
+    quality_rate = Column(Float)
     # Purchase value relative to price
-    pbv_rate = Column(Integer)
-    innovation_rate = Column(Integer)
-    features_rate = Column(Integer)
-    useable_rate = Column(Integer)
-    Design_rate = Column(Integer)
+    pbv_rate = Column(Float)
+    innovation_rate = Column(Float)
+    features_rate = Column(Float)
+    useable_rate = Column(Float)
+    Design_rate = Column(Float)
     price = Column(Integer)
     price_with_discount= Column(Integer)
 
